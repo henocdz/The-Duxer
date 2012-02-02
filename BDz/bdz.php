@@ -1,7 +1,7 @@
 <?
 	/*
 		Realizada por: Henoc Díaz (@roofdier)
-		Última modificación: Noviembre'07 2011
+		Última modificación: Diciembre'06 2011
 		México, DF.
 	*/
 	
