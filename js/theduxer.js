@@ -66,10 +66,13 @@ $(function (){
 		a.addEventListener('loadedmetadata',metadata);
 		a.addEventListener('error',error);
 
+<<<<<<< HEAD
 		renameTracksItems();
 
 		volumeControl.rangeinput(); 	
 
+=======
+>>>>>>> 6cb19de7fb28b4cc7b54aa4d4165ced30287d93c
 	aSource = trackSelector.eq(trackNum).attr('data-source');
 	a.volume = vol;
 
@@ -78,6 +81,7 @@ $(function (){
 		previousTrackNum = trackNum;
 		beforePlay();
 	}
+<<<<<<< HEAD
 
 
 	plause.click(function (){
@@ -192,6 +196,8 @@ $(function (){
 		}
 
 	})
+=======
+>>>>>>> 6cb19de7fb28b4cc7b54aa4d4165ced30287d93c
 })
 
 
@@ -284,6 +290,7 @@ function loadingTime()
 	timeLoaded.css('width',tl+'%');
 }
 
+<<<<<<< HEAD
 function renameTracksItems()
 {
 	$('.track span').each(function (){
@@ -299,6 +306,8 @@ function renameTracksItems()
 	})
 }
 
+=======
+>>>>>>> 6cb19de7fb28b4cc7b54aa4d4165ced30287d93c
 function metadata()
 {
 	var total = formatTime(a.duration);
