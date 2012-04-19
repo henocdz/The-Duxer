@@ -191,7 +191,7 @@ $(function (){
 		}
 
 	})
-})
+}) 
 
 
 function beforePlay()
