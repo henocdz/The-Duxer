@@ -251,7 +251,7 @@ function endSong()
 
 	previousTrackNum = trackNum;
 
-	if(trackNum == (totalTracks-1) && loop = 1)
+	if(trackNum == (totalTracks-1) && loop == 1)
 	{
 		if(trackNum<(totalTracks-1))
 			trackNum++;
