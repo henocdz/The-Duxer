@@ -20,6 +20,9 @@ También fue probado en iPod/iPad/iPhone y dispositivos con OS Android.
 # Contácto #
 
 **Twitter** - @roofdierdz
-**Facebook** - /roofdierdz
+
+**Facebook** - <http://facebook.com/roofdierdz>
+
 **Sitio Web** <http://rfdz.mx>
+
 **e-Mail** - tuts@rfdz.mx
