@@ -19,8 +19,7 @@ También fue probado en iPod/iPad/iPhone y dispositivos con OS Android.
 
 # Contácto #
 
-**Twitter** - @roofdier
-
+**Twitter** - @roofdierdz
 **Facebook** - /roofdierdz
-
-**e-Mail** - tutoriales@roofdier.com
+**Sitio Web** <http://rfdz.mx>
+**e-Mail** - tuts@rfdz.mx
